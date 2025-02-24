@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivansh Mehta</h1>
 <h3 align="center">"AI Enthusiast | Data Scientist | Machine Learning & Deep Learning Researcher"</h3>
-<img align=“right” alt=“coding” width = “400” src=“[![image](https://github.com/user-attachments/assets/fb50603f-3167-42a6-aafc-0169e6e64387)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1XMBt-LtS6ITTOCU0y3Ooh&ust=1740519380108000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNibjJSi3YsDFQAAAAAdAAAAABAR)![image](https://github.com/user-attachments/assets/f1ce9555-a228-4f97-a4d0-18043b5d0923).gif”>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=shivanshmehta31&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmehta31" /> </p>
+<img align="right" alt="coding" width="400" src="https://userimages.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshmehta31&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmehta31" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@shivanshmehta31](https://medium.com/@shivanshmehta31)
 
