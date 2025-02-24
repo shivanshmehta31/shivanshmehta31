@@ -1,3 +1,4 @@
+![logo](https://github.com/shivanshmehta31/shivanshmehta31/blob/main/shivanshmehta.png)
 <h1 align="center">Hi 👋, I'm Shivansh Mehta</h1>
 <h3 align="center">"AI Enthusiast | Data Scientist | Machine Learning & Deep Learning Researcher"</h3>
 <img align="center" alt="coding" width="400" src="https://userimages.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
