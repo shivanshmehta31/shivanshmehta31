@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shivanshmehta31@gmail.com**
 
-- 📄 Know about my experiences (RESUME) [https://drive.google.com/file/d/1bY13idNcYT4MhDCOpzZqVyDbGPHHjr64/view?usp=share_link](https://drive.google.com/file/d/1bY13idNcYT4MhDCOpzZqVyDbGPHHjr64/view?usp=share_link)
+- 📄 Know about my experiences (RESUME) [https://drive.google.com/file/d/1jheoGy8iyoVP9xkAzDuvqdhM5OnwkXOG/view?usp=sharing](https://drive.google.com/file/d/1jheoGy8iyoVP9xkAzDuvqdhM5OnwkXOG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
