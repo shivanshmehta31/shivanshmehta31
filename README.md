@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshmehta31&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmehta31" /> </p>
 
+- 🚀 Explore my portfolio to see projects, skills, and experiences in data science and AI: [Portfolio Link](https://shivanshmehta309.wixsite.com/portfolio)
+
 - 📝 I regularly write articles on [https://medium.com/@shivanshmehta31](https://medium.com/@shivanshmehta31)
 
 - 💬 Ask me about **C, Java, Python, R, SQL, MongoDB, Pandas, Numpy, Matplotlib, Excel, PowerBI, Machine Learning, Deep Learning, Computer Vision**
